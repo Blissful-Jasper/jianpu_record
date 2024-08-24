@@ -261,11 +261,6 @@ if __name__ == "__main__":
 
 
 
-ds = xr.open_dataset("/DatadiskExt/xpji/test_h9_nc/20240705/NC_HS_H09_20240705_0100_FLDK_R100.nc")
-
-
-
-
 
 
 
