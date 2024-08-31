@@ -77,7 +77,7 @@ Python | 提取WRF输出变量 | 插值高度层
 Python | 计算位涡平流项Python | 读取matlab 输出 mat 文件
 Python | 处理HY-2C 数据 | 非标准时间格式
 Python | Linux | 解析Himawari-8/9 | Standard Data
-![Python | 空间滤波 | 带通 | 低通 | 高通](https://mp.weixin.qq.com/s/kMbPAhnbjWhYqdVMGpTKJA)
+[Python | 空间滤波 | 带通 | 低通 | 高通](https://mp.weixin.qq.com/s/kMbPAhnbjWhYqdVMGpTKJA)
 
 ​
 python海洋气象入门
