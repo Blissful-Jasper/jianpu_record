@@ -30,3 +30,10 @@ taylor.ipynb
 - 适用于绘制cmip6评估结果的泰勒图
 
 ![Taylor-diagram](https://github.com/user-attachments/assets/4ce5b1ac-77d2-48f8-b8a2-e0afe9bbc5e6)
+
+
+## 2024-08-31
+
+空间滤波.ipynb
+
+![space_filter](https://github.com/user-attachments/assets/75ae10c2-030a-447a-a415-b1d640ee4572)
