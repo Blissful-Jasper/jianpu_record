@@ -45,8 +45,8 @@ taylor.ipynb
 
 ## 公众号相关内容链接
 
-Python
-绘图
+### Python-绘图
+
 [Python | 等值线添加白底边框](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487016&idx=1&sn=4b777fd4c172e55111ea7738a2542fd6&chksm=f94f1e47ce3897515043ba4bf2a20603c2ef55c90fc91e067b6f477f9fd8b1190dffa5adb10c&scene=21#wechat_redirect)
 
 [Python |  多Y轴折线图](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247486906&idx=1&sn=ef51872c756fca87d3b6498305927808&chksm=f94f1dd5ce3894c3c10f720cb571f44d39f23848d2da17ce1226bed1c595b5f9e47e99559af4&scene=21#wechat_redirect)
@@ -71,7 +71,7 @@ Python
 
 [Python | Cartopy | 多子图投影](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247485485&idx=1&sn=223eed10bbbd011cd150f50ad4e87222&chksm=f94f1842ce38915469736a6e9c84809e213a96a8d5cad04c2102f5e1d09c49ba7b8e7a5ac141&scene=21#wechat_redirect)
 
-[]=Python | 超前滞后分析 | Niño 3.4 index](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247485458&idx=1&sn=d22adb6df57e737c4be19ef0e812c7f3&chksm=f94f187dce38916bdbb23bd33cfdbe6af6f83c0dcea1af788f06f76210a0cf8ba2097ef4bf9a&scene=21#wechat_redirect)
+[Python | 超前滞后分析 | Niño 3.4 index](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247485458&idx=1&sn=d22adb6df57e737c4be19ef0e812c7f3&chksm=f94f187dce38916bdbb23bd33cfdbe6af6f83c0dcea1af788f06f76210a0cf8ba2097ef4bf9a&scene=21#wechat_redirect)
 
 [Python | detrend | seasonal cycle](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247485442&idx=1&sn=8b692bf45c354af23af1592850c6ac13&chksm=f94f186dce38917b2b794b69467a083c6bdde69ed14052f3b650f67586f74b7f64e3b706c2ec&scene=21#wechat_redirect)
 
@@ -83,11 +83,12 @@ Python
 
 [Python | El Nino | EOF](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247484932&idx=1&sn=7ec1f1e298285e8c393f3f47af605895&chksm=f94f166bce389f7d7178163ebe18be7be200f037572286537bdabd66d6c96e81e6a6b260e3b0&scene=21#wechat_redirect)
 
-[Python | 非规则矩形投影绘制 | 添加斑马线边框(http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247484191&idx=1&sn=f443980aac01df5af5d5024550bd9060&chksm=f94f1370ce389a66e738c1824501c0f343539ef04fce81b0f03620efd730c421f8969ac910a2&scene=21#wechat_redirect)
+[Python | 非规则矩形投影绘制 | 添加斑马线边框](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247484191&idx=1&sn=f443980aac01df5af5d5024550bd9060&chksm=f94f1370ce389a66e738c1824501c0f343539ef04fce81b0f03620efd730c421f8969ac910a2&scene=21#wechat_redirect)
 
 [Python | 泰勒图](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247484191&idx=1&sn=f443980aac01df5af5d5024550bd9060&chksm=f94f1370ce389a66e738c1824501c0f343539ef04fce81b0f03620efd730c421f8969ac910a2&scene=21#wechat_redirect)
 
-数据处理
+### python-数据处理
+
 [Python | SMAP_SSS_L2c | 质量控制](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247486969&idx=1&sn=5c13438c7aaf64a4aa73b80a1d0bfd8e&chksm=f94f1d96ce38948050b0b4b4afd7d246037181807da19765b2d939e629eeeb2087161726aed4&scene=21#wechat_redirect)
 
 
@@ -118,7 +119,8 @@ Python
 [Python | 空间滤波 | 带通 | 低通 | 高通](https://mp.weixin.qq.com/s/kMbPAhnbjWhYqdVMGpTKJA)
 
 ​
-python海洋气象入门
+### python-海洋气象入门
+
 [Python | 海洋气象 | Xarray | 数据读取与切片01](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488178&idx=1&sn=f81e8729b81cf4ac4bfe15d5a3f8fa2f&chksm=f94f02ddce388bcb7b7b167d4722cad59b776f370f5a9d33bbb32aa33b04296d79540b8d21d3&scene=21#wechat_redirect)
 
 
@@ -131,9 +133,8 @@ python海洋气象入门
 [Python | 海洋气象 | Xarray | 数据批量读取与保存 04](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488467&idx=1&sn=78bf8aee33b4043d7e61b35119f38bb6&chksm=f94f03bcce388aaadaa6b4424d21342aff8829d447abf45ab180120f3284fc9e529c4452ceca&scene=21#wechat_redirect)
 
 
+### NCL
 
-
-NCL
 [NCL | Nan值处理 | 缺测值 | 插值](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247486880&idx=1&sn=6d1877f25afc8aaf5b78f81a443474a5&chksm=f94f1dcfce3894d9134b5d9d0115b8950555643e020b1bf8cac27b4a3f9e1df3ab1eb65bbd2b&scene=21#wechat_redirect)
 
 
@@ -147,7 +148,8 @@ NCL
 
 
 
-Matlab
+### Matlab
+
 [Matlab | 空间带通滤波 | 傅里叶变换](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247485745&idx=1&sn=beb71ec851d242ee23f5f343d0f1656e&chksm=f94f195ece3890483723829d2d8ae5bc382c11f7c7dc8d03a4398b58e9c9bd83790f6d2c521d&scene=21#wechat_redirect)
 
 
@@ -158,7 +160,8 @@ Matlab
 
 
 
-WRF
+### WRF
+
 [WRF | 输出站点数据](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247486977&idx=1&sn=e2a67301c0936ec5d752967f8308c477&chksm=f94f1e6ece389778303b7271fe6e302f1b7106cc349b124a7320c6cb836ab466ee24db70139b&scene=21#wechat_redirect)
 
 
@@ -195,7 +198,8 @@ WRF
 [WRF | 诊断量计算 | 输出](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487512&idx=1&sn=c26b2762b3db875aff545e0914c039d0&chksm=f94f0077ce388961d78db29229d9d8540dea4c5763d09c306b8eb2647288919058e580471615&scene=21#wechat_redirect)
 
 
-cdo
+### cdo
+
 [cdo |  插值 | 合并数据 | 缺测处理](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487092&idx=1&sn=c121e4228aab3769e7113478b311df4f&chksm=f94f1e1bce38970d236be00831a68d64def4535ec48a7672d92e1bd1689eff08e7bf5a8223ab&scene=21#wechat_redirect)
 
 
@@ -218,7 +222,8 @@ cdo
 
 
 
-课堂笔记
+### 课堂笔记 
+
 [笔记 | 误差增长 | 可预报性 | 目标观测 |](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487163&idx=1&sn=b0a97966dccc2b96524f1c5facb53e75&chksm=f94f1ed4ce3897c25b1c3b6b9c68ea2de70c208dfd42839ac922455df6f7c571c97bcc2b3dfe&scene=21#wechat_redirect)
 
 
@@ -259,10 +264,8 @@ cdo
 
 
 
+###  深度学习
 
-
-
-深度学习
 [Windows11 | install | tensorflow-gpu](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247484036&idx=1&sn=6fb53c8ef9c833cb071f09f950381621&chksm=f94f12ebce389bfd153076045166a6a095b57bd41bda9af893ee58df77c74e1b74b9d6cd6605&scene=21#wechat_redirect)
 
 
@@ -285,7 +288,8 @@ cdo
 
 
 
-科研
+###  科研
+
 [诊断方程 | Moist Static Energy | budget](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247485793&idx=1&sn=659bb080f14b6ea82a0a8c17efbebb0a&chksm=f94f190ece389018675aa1146b2f3b8340ed2d5f5919c69f7f992826d720516bc0db4a0c74e5&scene=21#wechat_redirect)
 
 
@@ -320,7 +324,8 @@ cdo
 
 
 
-小技巧 | 其他
+###  小技巧 | 其他
+
 [Latex | 编写数学公式 | 数学运算符号](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487330&idx=1&sn=49c19c9c629c50f438280dbe93ad1b27&chksm=f94f1f0dce38961bcac331dd6ddf06566753818fdff177bc20ed388a352d614b3438685a9642&scene=21#wechat_redirect)
 
 
@@ -371,7 +376,8 @@ cdo
 
 
 
-资料同化
+###  资料同化
+
 [资料同化 | 真实个例](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247486396&idx=1&sn=12e9b7dc55831a0bb38e27025daa7dbc&chksm=f94f1bd3ce3892c523e5b9a8e63fd1d4c1375e8c54a637da984e19ba42c983c3c145fe6202a7&scene=21#wechat_redirect)
 
 
