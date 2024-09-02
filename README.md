@@ -39,6 +39,11 @@ taylor.ipynb
 ![space_filter](https://github.com/user-attachments/assets/75ae10c2-030a-447a-a415-b1d640ee4572)
 
 
+## 2024-09-02
+
+Python  |x-y网格区域截取
+
+![heat content](https://github.com/user-attachments/assets/dbe39006-295d-4031-8ec9-ad4a9af5f95c)
 
 
 
