@@ -41,7 +41,7 @@ taylor.ipynb
 
 ## 2024-09-02
 
-Python  |x-y网格区域截取
+Python-非常规经纬度网格.ipynb
 
 ![heat content](https://github.com/user-attachments/assets/dbe39006-295d-4031-8ec9-ad4a9af5f95c)
 
