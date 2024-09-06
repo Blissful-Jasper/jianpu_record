@@ -402,7 +402,9 @@ Python-GPCP-趋势分析.ipynb
 
 
 
+## 文献阅读
 
+[GRL |  自相关 | 全球千米尺度气候模式对热带降水变率的简单诊断](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488646&idx=1&sn=f85097b4eecadd6a12a01cacfe4f5571&chksm=f94f04e9ce388dffce22a60ef72393ac843621d76db4f511c2acac7baac36c660f78072611db#rd)
 
 
 
