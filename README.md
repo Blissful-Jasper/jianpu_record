@@ -45,6 +45,11 @@ Python-非常规经纬度网格.ipynb
 
 ![heat content](https://github.com/user-attachments/assets/dbe39006-295d-4031-8ec9-ad4a9af5f95c)
 
+## 2024-09-06
+
+Python-GPCP-趋势分析.ipynb
+
+![image](https://github.com/user-attachments/assets/43ec45df-4702-4512-a6b0-6b14cc22bcb6)
 
 
 
