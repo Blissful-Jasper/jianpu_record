@@ -98,6 +98,7 @@ Python-GPCP-趋势分析.ipynb
 [Python | 泰勒图](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247484191&idx=1&sn=f443980aac01df5af5d5024550bd9060&chksm=f94f1370ce389a66e738c1824501c0f343539ef04fce81b0f03620efd730c421f8969ac910a2&scene=21#wechat_redirect)
 
 [Python | GPCP | 趋势分析 | 气候态空间分布 | 空间加权平均](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488665&idx=1&sn=a8f41a0855eeede204b5678ba5d694a5&chksm=f94f04f6ce388de0333346d07ea4f6dc978f5276aa2dd419d18d30b0353628a8019d2fea5b43#rd)
+
 ### python-数据处理
 
 [Python | SMAP_SSS_L2c | 质量控制](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247486969&idx=1&sn=5c13438c7aaf64a4aa73b80a1d0bfd8e&chksm=f94f1d96ce38948050b0b4b4afd7d246037181807da19765b2d939e629eeeb2087161726aed4&scene=21#wechat_redirect)
@@ -129,7 +130,8 @@ Python-GPCP-趋势分析.ipynb
 
 [Python | 空间滤波 | 带通 | 低通 | 高通](https://mp.weixin.qq.com/s/kMbPAhnbjWhYqdVMGpTKJA)
 
-​
+[Python | x-y 网格切片](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488620&idx=1&sn=ff95ff5d2ab40aa9ee03b4318d0e164b&chksm=f94f0403ce388d15aaf61dc73e793d821c2bfef89ea634e0cbe04c5bab37ec3a5795fb8068e4#rd)
+
 ### python-海洋气象入门
 
 [Python | 海洋气象 | Xarray | 数据读取与切片01](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488178&idx=1&sn=f81e8729b81cf4ac4bfe15d5a3f8fa2f&chksm=f94f02ddce388bcb7b7b167d4722cad59b776f370f5a9d33bbb32aa33b04296d79540b8d21d3&scene=21#wechat_redirect)
