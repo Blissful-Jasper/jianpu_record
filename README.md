@@ -49,7 +49,7 @@ Python-非常规经纬度网格.ipynb
 
 Python-GPCP-趋势分析.ipynb
 
-![image](https://github.com/user-attachments/assets/43ec45df-4702-4512-a6b0-6b14cc22bcb6)
+![趋势分析](https://github.com/user-attachments/assets/afc64732-5548-49c9-84dd-cbea0fe99111)
 
 
 
