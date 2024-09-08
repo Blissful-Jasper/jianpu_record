@@ -4,6 +4,51 @@
 
 更新ing...
 
+## 2024-09-06
+
+Python-GPCP-趋势分析.ipynb
+
+- 适用于GPCP月平均降水资料的趋势计算
+- 空间纬向加权计算以及空间平均
+
+![趋势分析](https://github.com/user-attachments/assets/afc64732-5548-49c9-84dd-cbea0fe99111)
+
+
+## 2024-09-02
+
+Python-非常规经纬度网格.ipynb
+
+- 适用于处理以x-y为网格的数据切片处理
+
+![heat content](https://github.com/user-attachments/assets/dbe39006-295d-4031-8ec9-ad4a9af5f95c)
+
+## 2024-08-31
+
+空间滤波.ipynb
+
+- 适用于海洋气象网格数据的空间滤波，包括：带通、低通、高通
+- 与matlab中的空间滤波函数进行对比
+  
+![space_filter](https://github.com/user-attachments/assets/75ae10c2-030a-447a-a415-b1d640ee4572)
+
+## 2024-08-25
+
+taylor.ipynb
+
+- 适用于绘制cmip6评估结果的泰勒图
+
+![Taylor-diagram](https://github.com/user-attachments/assets/4ce5b1ac-77d2-48f8-b8a2-e0afe9bbc5e6)
+
+## 2024-08-24
+
+Himawari-8/read_h9_single_file.py
+
+- 对于Himawari-8/9 标准standard 数据进行解析
+  
+![Himawari-8/9](https://github.com/user-attachments/assets/9c193632-8d55-4cb1-9b7b-077851b5e580)
+
+
+
 ## 2024-08-23
 
 Python-海洋气象-Xarray-入门.ipynb
@@ -15,49 +60,6 @@ Python-海洋气象-Xarray-入门.ipynb
 ![logo](https://github.com/user-attachments/assets/1796b50e-37a4-4cf6-b6de-800de37c3cee)
 
 
-## 2024-08-24
-
-Himawari-8/read_h9_single_file.py
-
-- 对于Himawari-8/9 标准standard 数据进行解析
-  
-![Himawari-8/9](https://github.com/user-attachments/assets/9c193632-8d55-4cb1-9b7b-077851b5e580)
-
-## 2024-08-25
-
-taylor.ipynb
-
-- 适用于绘制cmip6评估结果的泰勒图
-
-![Taylor-diagram](https://github.com/user-attachments/assets/4ce5b1ac-77d2-48f8-b8a2-e0afe9bbc5e6)
-
-
-## 2024-08-31
-
-空间滤波.ipynb
-
-- 适用于海洋气象网格数据的空间滤波，包括：带通、低通、高通
-- 与matlab中的空间滤波函数进行对比
-  
-![space_filter](https://github.com/user-attachments/assets/75ae10c2-030a-447a-a415-b1d640ee4572)
-
-
-## 2024-09-02
-
-Python-非常规经纬度网格.ipynb
-
-- 适用于处理以x-y为网格的数据切片处理
-
-![heat content](https://github.com/user-attachments/assets/dbe39006-295d-4031-8ec9-ad4a9af5f95c)
-
-## 2024-09-06
-
-Python-GPCP-趋势分析.ipynb
-
-- 适用于GPCP月平均降水资料的趋势计算
-- 空间纬向加权计算以及空间平均
-
-![趋势分析](https://github.com/user-attachments/assets/afc64732-5548-49c9-84dd-cbea0fe99111)
 
 
 
