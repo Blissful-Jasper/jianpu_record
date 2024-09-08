@@ -307,6 +307,7 @@ Python-GPCP-趋势分析.ipynb
 
 [深度学习 | 机器学习 | 气候预报 | 研究综述](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488530&idx=1&sn=f3a30be6d4fe9c8d7801e29d8ca059d4&chksm=f94f047dce388d6b9877a5c1b6f63b8459188930ead968b98da8e3cd19b5229eb63f86639392&scene=21#wechat_redirect)
 
+[深度学习 | 机器学习 | 气候建模 | 研究综述](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488712&idx=1&sn=32dc82fb7d694d0e3cc1300b68d2016b&chksm=f94f04a7ce388db1c54b78d61af7871f5f42eee4c60dd9fb674532ef4a28acd970b20ed1c65c#rd)
 
 
 ###  科研
