@@ -4,6 +4,16 @@
 
 更新ing...
 
+## 2024-09-09
+
+Python-mat.ipynb
+
+- 适用于使用python读取matlab输出的.dat文件
+- 多y轴绘制方法
+
+
+![image](https://github.com/user-attachments/assets/fcf43e99-281b-4414-84f3-da3bc1fd368f)
+
 ## 2024-09-06
 
 Python-GPCP-趋势分析.ipynb
@@ -141,6 +151,9 @@ Python-海洋气象-Xarray-入门.ipynb
 [Python | 空间滤波 | 带通 | 低通 | 高通](https://mp.weixin.qq.com/s/kMbPAhnbjWhYqdVMGpTKJA)
 
 [Python | x-y 网格切片](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488620&idx=1&sn=ff95ff5d2ab40aa9ee03b4318d0e164b&chksm=f94f0403ce388d15aaf61dc73e793d821c2bfef89ea634e0cbe04c5bab37ec3a5795fb8068e4#rd)
+
+
+[Python | 读取.dat文件](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488731&idx=1&sn=db1bb9e388cb24c983af7d065d6ef4d0&chksm=f94f04b4ce388da2c9a25a201d1869ece17db94e4745972296836fc42c7bace083a711462047#rd)
 
 ### python-海洋气象入门
 
