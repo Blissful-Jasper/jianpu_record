@@ -4,6 +4,16 @@
 
 更新ing...
 
+## 2024-09-11
+
+Python-计算可降水量.ipynb
+- 利用ERA5比湿数据计算可降水量数据
+- 处理中心经度存在白线的情况
+- 读取cmip6的prw数据
+  
+![image](https://github.com/user-attachments/assets/6cbec870-d6fa-4399-a429-fc081aa14e02)
+
+
 ## 2024-09-09
 
 Python-mat.ipynb
