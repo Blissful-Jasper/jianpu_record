@@ -165,6 +165,9 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Python | 读取.dat文件](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488731&idx=1&sn=db1bb9e388cb24c983af7d065d6ef4d0&chksm=f94f04b4ce388da2c9a25a201d1869ece17db94e4745972296836fc42c7bace083a711462047#rd)
 
+
+[Python | 计算可降水量](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488766&idx=1&sn=553e88118286a79964c3a0f3fda23c55&chksm=f94f0491ce388d8725c82c1d651bcaec6af53dc2fcefcacb55c8a6c6d2a7289375c84dc8eb46#rd)
+
 ### python-海洋气象入门
 
 [Python | 海洋气象 | Xarray | 数据读取与切片01](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488178&idx=1&sn=f81e8729b81cf4ac4bfe15d5a3f8fa2f&chksm=f94f02ddce388bcb7b7b167d4722cad59b776f370f5a9d33bbb32aa33b04296d79540b8d21d3&scene=21#wechat_redirect)
