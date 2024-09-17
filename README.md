@@ -141,6 +141,9 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Python | GPCP | 趋势分析 | 气候态空间分布 | 空间加权平均](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488665&idx=1&sn=a8f41a0855eeede204b5678ba5d694a5&chksm=f94f04f6ce388de0333346d07ea4f6dc978f5276aa2dd419d18d30b0353628a8019d2fea5b43#rd)
 
+
+[Python | Seaborn | 绘制核密度图](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488787&idx=1&sn=7c3a117ef5ec50774d44db63f52e5360&chksm=f94f057cce388c6a29585db53545b836bbd91c02d83b2fda7355a970cb54375abf8008471621#rd)
+
 ### python-数据处理
 
 [Python | SMAP_SSS_L2c | 质量控制](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247486969&idx=1&sn=5c13438c7aaf64a4aa73b80a1d0bfd8e&chksm=f94f1d96ce38948050b0b4b4afd7d246037181807da19765b2d939e629eeeb2087161726aed4&scene=21#wechat_redirect)
