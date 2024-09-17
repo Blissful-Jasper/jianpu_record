@@ -4,6 +4,17 @@
 
 更新ing...
 
+
+## 2024-09-17
+
+Python-绘制核密度图.ipynb
+- 学习了使用seaborn同时绘制两次填色图的方法
+- 学习了设置边缘柱形图的标签和刻度的函数命令
+
+![image](https://github.com/user-attachments/assets/d1090400-ef02-4fff-a604-3a46d5119a46)
+
+
+
 ## 2024-09-11
 
 Python-计算可降水量.ipynb
@@ -12,6 +23,7 @@ Python-计算可降水量.ipynb
 - 读取cmip6的prw数据
   
 ![image](https://github.com/user-attachments/assets/6cbec870-d6fa-4399-a429-fc081aa14e02)
+
 
 
 ## 2024-09-09
