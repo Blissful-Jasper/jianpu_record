@@ -4,6 +4,16 @@
 
 更新ing...
 
+## 2024-09-25
+
+Python-gdal_trans.ipynb
+
+- 学习了如何将tif格式文件转换为nc的方法
+- 将m的x-y坐标转换为°的lon-lat
+
+  ![image](https://github.com/user-attachments/assets/0475e352-f8c6-4b9d-93c6-69ee9e7dd8c4)
+
+
 
 ## 2024-09-17
 
