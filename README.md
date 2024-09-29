@@ -4,6 +4,15 @@
 
 更新ing...
 
+## 2024-09-29
+
+Python-数据同化示例.ipynb
+
+- 整合了**集合滤波数据同化方法及其应用**中的代码
+  
+![image](https://github.com/user-attachments/assets/2f099c1a-94df-4c2a-8c1e-58d7cc54e321)
+
+
 ## 2024-09-25
 
 Python-gdal_trans.ipynb
