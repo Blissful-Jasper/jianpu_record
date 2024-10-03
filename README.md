@@ -4,6 +4,16 @@
 
 更新ing...
 
+## 2024-10-03
+
+Python-绘制坡度和坡向.ipynb
+
+- 利用RichDEM库方便快捷的基于高程数据计算坡度和坡向
+
+![image](https://github.com/user-attachments/assets/67b1a8ae-b7cb-4353-9b6a-4800919473d4)
+
+
+
 ## 2024-09-29
 
 Python-数据同化示例.ipynb
