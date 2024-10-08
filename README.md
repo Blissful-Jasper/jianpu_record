@@ -4,6 +4,15 @@
 
 更新ing...
 
+## 2024-10-08
+
+Python-读取各省份数据.ipynb
+- 基于cnmaps库自带的省份边界信息，进行区域裁剪
+
+  
+![image](https://github.com/user-attachments/assets/bb0c66a7-e18f-4c59-a738-eaf37d761a78)
+
+
 ## 2024-10-03
 
 Python-绘制坡度和坡向.ipynb
