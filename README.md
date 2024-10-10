@@ -4,6 +4,16 @@
 
 更新ing...
 
+## 2024-10-10
+
+Python-sst-超前滞后.ipynb
+
+- 基于sst数据计算nino3.4指数，并计算海温异常以及指数的超前滞后，绘制空间分布图
+
+![image](https://github.com/user-attachments/assets/caf76087-d20b-486d-a8d6-ce4396c12d1e)
+
+
+
 ## 2024-10-08
 
 Python-读取各省份数据.ipynb
