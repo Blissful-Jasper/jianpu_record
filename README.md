@@ -4,6 +4,16 @@
 
 更新ing...
 
+## 2024-10-15
+
+Python-basemap-sst.ipynb
+
+- 整理了basemap绘制不同投影下空间分布图的基本代码
+
+![image](https://github.com/user-attachments/assets/58fefb81-520a-4c0a-aecc-fbde2ce4d18d)
+
+
+
 ## 2024-10-10
 
 Python-sst-超前滞后.ipynb
