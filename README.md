@@ -447,7 +447,7 @@ Python-海洋气象-Xarray-入门.ipynb
 [MJO | CISK | 文献整理](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487997&idx=1&sn=3a183a65c2ac4737d000911f48d51d54&chksm=f94f0192ce38888401fa1d13c33336347c16fc0575c1379c642fed790581341ef64a78de8695&scene=21#wechat_redirect)
 
 
-[热带赤道波动 | 识别的艺术]([https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488559&idx=1&sn=bb55adc457eaf8274fb5c94ff90e757f&chksm=f94f0440ce388d568022c0e2c9c205c5acf5a5060a6f7383288840b45e4fa60163cf373b007c#rd])
+[热带赤道波动 | 识别的艺术][https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488559&idx=1&sn=bb55adc457eaf8274fb5c94ff90e757f&chksm=f94f0440ce388d568022c0e2c9c205c5acf5a5060a6f7383288840b45e4fa60163cf373b007c#rd)
 
 
 
