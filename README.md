@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/ab255ed4-cb09-4b56-bb4e-a0adcc302765)# jianpu_record
 
 用来存放公众号的一些源代码
 
