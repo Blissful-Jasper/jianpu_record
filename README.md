@@ -1,8 +1,17 @@
-# jianpu_record
+![image](https://github.com/user-attachments/assets/ab255ed4-cb09-4b56-bb4e-a0adcc302765)# jianpu_record
 
 用来存放公众号的一些源代码
 
 更新ing...
+
+## 2024-10-16
+
+Python-空间投影法-ccew.ipynb
+
+- 基于投影法的赤道波动识别
+
+![image](https://github.com/user-attachments/assets/559be868-4120-4087-bfd5-d204f905147c)
+
 
 ## 2024-10-15
 
@@ -526,6 +535,7 @@ Python-海洋气象-Xarray-入门.ipynb
 [GRL | 对流耦合赤道波在次季节预报中的作用](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488799&idx=1&sn=f25db31247407a3ef9cc77ac36edb921&chksm=f94f0570ce388c66f52eb47325c68d093aef3e85089586b1f6b813377f983de91efc0b22c4e5#rd)
 
 
+[JAS | 赤道波动 | 基于投影的识别方法](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489037&idx=1&sn=51ffbbfa104eead9a471f00452e9637d&chksm=f94f0662ce388f74904c7b7fa988b6dd3bd90a8600b8b1e78964d672afd1f791aaba37b9d9cf#rd)
 
 
 
