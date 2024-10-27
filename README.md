@@ -181,6 +181,12 @@ Python-海洋气象-Xarray-入门.ipynb
 ## 公众号相关内容链接
 
 ## Python
+
+### Python-统计方法
+
+[Python | 自相关函数的标准化功率谱估计方法](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489149&idx=1&sn=4c2eea010285338c03d8a9d3f68e2256&chksm=f94f0612ce388f04219f44eb1934d76513f5471a70f87cebeed9cdcb54e4dba89366bdb853e1#rd)
+
+
 ### Python-绘图
 
 [Python | 等值线添加白底边框](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487016&idx=1&sn=4b777fd4c172e55111ea7738a2542fd6&chksm=f94f1e47ce3897515043ba4bf2a20603c2ef55c90fc91e067b6f477f9fd8b1190dffa5adb10c&scene=21#wechat_redirect)
