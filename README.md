@@ -3,7 +3,16 @@
 
 更新ing...
 
-## 2023-10-21
+## 2024-10-27
+
+Python-基于自相关函数的功率谱估计.ipynb
+
+- 自相关函数的标准化功率谱估计方法
+![image](https://github.com/user-attachments/assets/83092b09-e682-47bb-b88b-1f074afe2fe4)
+
+
+
+## 2024-10-21
 
 Python-heatmap.ipynb
 - 绘制热力图
