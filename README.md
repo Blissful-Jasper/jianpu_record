@@ -243,6 +243,9 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Python | Seaborn | 绘制核密度图](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488787&idx=1&sn=7c3a117ef5ec50774d44db63f52e5360&chksm=f94f057cce388c6a29585db53545b836bbd91c02d83b2fda7355a970cb54375abf8008471621#rd)
 
+[Python | kelvin波频散曲线](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489156&idx=1&sn=487743ebfbb082b88fb03c1a78647d3d&chksm=f94f06ebce388ffdc3df727752bb599a563e494e6dbecc7170c77cab9143a0d2e12d8b300893#rd)
+
+
 
 ### python-数据处理
 
