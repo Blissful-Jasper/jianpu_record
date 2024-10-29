@@ -3,6 +3,15 @@
 
 更新ing...
 
+## 2024-1029
+
+Python-kelvin波的频散曲线.py
+
+- cckws的频散曲线
+ ![image](https://github.com/user-attachments/assets/2d4fd9ef-45bd-4421-965e-774c556b6888)
+
+
+
 ## 2024-10-27
 
 Python-基于自相关函数的功率谱估计.ipynb
