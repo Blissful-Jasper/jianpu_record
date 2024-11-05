@@ -572,4 +572,5 @@ Python-海洋气象-Xarray-入门.ipynb
 [JAS | 赤道波动 | 基于投影的识别方法](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489037&idx=1&sn=51ffbbfa104eead9a471f00452e9637d&chksm=f94f0662ce388f74904c7b7fa988b6dd3bd90a8600b8b1e78964d672afd1f791aaba37b9d9cf#rd)
 
 
+[CD | 基于湿静能平衡的热带大尺度环流诊断模式](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489194&idx=1&sn=77c64a4d20f7ef0777e22635f7d188f4&chksm=f94f06c5ce388fd3c73ed070f72a687adcba13563bdeb709ec66873fe9692bce3e50920e9a7f#rd)
 
