@@ -574,3 +574,5 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [CD | 基于湿静能平衡的热带大尺度环流诊断模式](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489194&idx=1&sn=77c64a4d20f7ef0777e22635f7d188f4&chksm=f94f06c5ce388fd3c73ed070f72a687adcba13563bdeb709ec66873fe9692bce3e50920e9a7f#rd)
 
+[NC |  热带波动在海洋性大陆上热带气旋Seroja生成中的作用]([https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489194&idx=1&sn=77c64a4d20f7ef0777e22635f7d188f4&chksm=f94f06c5ce388fd3c73ed070f72a687adcba13563bdeb709ec66873fe9692bce3e50920e9a7f#rd](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489214&idx=1&sn=5bc47877c40d04fb521a52fd1e18c5f2&chksm=f94f06d1ce388fc78e262627038a8d80c74daba234a4033e9f2a2dcd60d2c540e4384f30b75c#rd))
+
