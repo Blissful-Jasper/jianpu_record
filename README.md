@@ -3,7 +3,16 @@
 
 更新ing...
 
-## 2024-1029
+## 2024-11-13
+
+Python-ITCZ_GPM.ipynb
+
+- 投影子图以及非投影子图高度自适应统一的一个技巧
+- colorbar的单位自动出现在右侧的小技巧
+- ITCZ的空间分布以及降水变率的空间分布
+![image](https://github.com/user-attachments/assets/fb3f8e55-920f-401b-849f-092057474a62)
+
+## 2024-10-29
 
 Python-kelvin波的频散曲线.py
 
