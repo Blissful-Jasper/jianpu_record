@@ -276,7 +276,9 @@ Python-海洋气象-Xarray-入门.ipynb
 [Python | 提取WRF输出变量 | 插值高度层](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247483989&idx=1&sn=913796a60e73492b0504ff311fbd61a3&chksm=f94f123ace389b2c99a563fb174dc7001e6fa781140f04a7420881cc067f8617e002b766b7bd&scene=21#wechat_redirect)
 
 
-[Python | 计算位涡平流项Python | 读取matlab 输出 mat 文件](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487730&idx=1&sn=f2eed0babd97b2dce74212d1f0f6d1b6&chksm=f94f009dce38898bfe24f9a526d307f8b5a2916f2603e6491d987c21daf6fac68403c8dc1c60&scene=21#wechat_redirect)
+[Python | 计算位涡平流项](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487536&idx=1&sn=eaef671166a7d139e9f55b55832fdbe4&chksm=f94f005fce3889495e5667f738798c50f357be5a2ec4da4ac3a1a08fa79bc3bfe444d3ace645#rd)
+
+[Python | 读取matlab 输出 mat 文件](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487730&idx=1&sn=f2eed0babd97b2dce74212d1f0f6d1b6&chksm=f94f009dce38898bfe24f9a526d307f8b5a2916f2603e6491d987c21daf6fac68403c8dc1c60&scene=21#wechat_redirect)
 
 
 [Python | 处理HY-2C 数据 | 非标准时间格式](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487815&idx=1&sn=1cd3a57b7ea91f8b0d91b326b1841371&chksm=f94f0128ce38883eada317d5ed1a03eafb0ecfa2a580ba61e846de95379c1151a89fd69b284b&scene=21#wechat_redirect)
