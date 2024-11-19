@@ -3,6 +3,15 @@
 
 更新ing...
 
+## 2024-11-19
+
+Python-经向投影-ccew.ipynb
+- 将数据投影到经向函数
+
+![image](https://github.com/user-attachments/assets/bdc841d7-0fa1-4c77-93cb-692171da93d8)
+
+
+
 ## 2024-11-13
 
 Python-ITCZ_GPM.ipynb
