@@ -335,7 +335,7 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [NCL | 批量转换nc数据时间格式 | cdo | calendar](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488010&idx=1&sn=bef2ebbfc5e449f78d88130fc8cd155e&chksm=f94f0265ce388b734a754d391b7db882f65e8825aa6586da2ae3b4ffc0f64cefcac4e16a0bc3&scene=21#wechat_redirect)
 
-
+[NCL | 手动去除季节循环](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489256&idx=1&sn=28bef9625b22856a753163db29bda546&chksm=f94f0687ce388f9121d2992e82762ee5e16148a9d1025339211372ee82e885fe584dee999922#rd)
 
 ## Matlab
 
