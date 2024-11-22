@@ -3,6 +3,17 @@
 
 更新ing...
 
+## 2024-11-22
+
+Python-保留谐波.ipynb
+
+- 尝试复现了NCL中`smthClmDayTLL`函数的作用
+- 对于谐波的概念有了更深的理解
+
+  ![image](https://github.com/user-attachments/assets/93bd0cb1-ada5-44fa-9852-900b5b574fa5)
+
+
+
 ## 2024-11-19
 
 Python-经向投影-ccew.ipynb
