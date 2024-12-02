@@ -284,7 +284,15 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Python | kelvin波频散曲线](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489156&idx=1&sn=487743ebfbb082b88fb03c1a78647d3d&chksm=f94f06ebce388ffdc3df727752bb599a563e494e6dbecc7170c77cab9143a0d2e12d8b300893#rd)
 
+[Python | 设置对称colormap](https://mp.weixin.qq.com/s/kSr8qBQdCWG_d3qz2n0YWA)
 
+[Python | 同时绘制带有投影与非投影的子图](https://mp.weixin.qq.com/s/XXu1dTukAELTdmkJYTBdGw)
+
+[Python | 波动的经向投影 | HV图](https://mp.weixin.qq.com/s/HS9tJ0MB2166eDV5vTlKuA)
+
+[Python | 绘制对流耦合kelvin波频散曲线](https://mp.weixin.qq.com/s/przyHeWvypgCGXnihtISwg)
+
+[Python | basemap |  cartopy |  geoviews](https://mp.weixin.qq.com/s/iiLCHVi5ywZkiqHDUEUAmg)
 
 ### python-数据处理
 
@@ -327,7 +335,23 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Python | 计算可降水量](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488766&idx=1&sn=553e88118286a79964c3a0f3fda23c55&chksm=f94f0491ce388d8725c82c1d651bcaec6af53dc2fcefcacb55c8a6c6d2a7289375c84dc8eb46#rd)
 
+[Python | Gdal | 投影转换 | tiff转换nc](https://mp.weixin.qq.com/s/BIJdKsqarFJLQbM3HfiwPg)
+
 [Python | 基于高程数据绘制坡度坡向](https://mp.weixin.qq.com/s/oAKRQJUMCyW3GK7xpBBARA)
+
+
+[Python ｜ 提取省份数据](https://mp.weixin.qq.com/s/Adxwxku6krUFObKo0C3Zxg)
+
+[Python | 涡旋识别 | pyEddyTracker](https://mp.weixin.qq.com/s/bJH4f2rHWmPB0ELoOujsCw)
+
+[Python | 复现NCL函数 | 保留谐波](https://mp.weixin.qq.com/s/39TQUI4xRK6GfmE5DWRqoQ)
+
+
+[Python | 自相关函数的标准化功率谱估计方法](https://mp.weixin.qq.com/s/xWCu4CJQeNtcjEQuaTzAtg)
+
+[Python | Seaborn | Heatmap](https://mp.weixin.qq.com/s/T4hFi-GuDMFlRqByCGtSlA)
+
+[Python | WRF | 计算非绝热加热率](https://mp.weixin.qq.com/s/FPOqm6KgKcCrV4mILOoNwQ)
 
 ### python-海洋气象入门
 
@@ -341,6 +365,18 @@ Python-海洋气象-Xarray-入门.ipynb
 
 
 [Python | 海洋气象 | Xarray | 数据批量读取与保存 04](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488467&idx=1&sn=78bf8aee33b4043d7e61b35119f38bb6&chksm=f94f03bcce388aaadaa6b4424d21342aff8829d447abf45ab180120f3284fc9e529c4452ceca&scene=21#wechat_redirect)
+
+### python-其他应用
+
+
+
+[Python | 震惊，竟然可以这样装库](https://mp.weixin.qq.com/s/EV9-wMe4zlItIKskM6Qwgg)
+
+[Python | 爬取微信公众号推文](https://mp.weixin.qq.com/s/MFaM097mlno7RaSzZRZgUw)
+
+[Python | 为什么不用代码下载ERA5数据呢？](https://mp.weixin.qq.com/s/iHBhsgnxMvnjzRlPn5anVQ)
+
+[Julia | 安装与测试](https://mp.weixin.qq.com/s/qnJnHzFLRQBwJXydgOGH0A)
 
 
 ## NCL
@@ -430,7 +466,9 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [cdo | 批量处理 | CMIP6 | monthly](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488022&idx=1&sn=a5cfc3f312c54dfbfd7385f5c3c367d1&chksm=f94f0279ce388b6f41ffe06e1fe95ff6902bab05532df96e6ec75ce9b8f84dc20752dc915c9b&scene=21#wechat_redirect)
 
+[Windows11 | Ubuntu | 更换默认安装位置 | 安装cdo](https://mp.weixin.qq.com/s/LYx1vKEvd_PJw6DBvm2-NQ)
 
+[Cdo | 下载 | 批量处理cmip6数据完整教程](https://mp.weixin.qq.com/s/MV0d2zfI6uoDYk2ja2ENMQ)
 
 ## 课堂笔记 
 
@@ -498,7 +536,7 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [深度学习 | 机器学习 | 气候建模 | 研究综述](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488712&idx=1&sn=32dc82fb7d694d0e3cc1300b68d2016b&chksm=f94f04a7ce388db1c54b78d61af7871f5f42eee4c60dd9fb674532ef4a28acd970b20ed1c65c#rd)
 
-
+[深度学习平台 | kaggle](https://mp.weixin.qq.com/s/L3lFrgwDeoSEZDcA75fNCw)
 ##  科研
 
 [诊断方程 | Moist Static Energy | budget](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247485793&idx=1&sn=659bb080f14b6ea82a0a8c17efbebb0a&chksm=f94f190ece389018675aa1146b2f3b8340ed2d5f5919c69f7f992826d720516bc0db4a0c74e5&scene=21#wechat_redirect)
@@ -617,3 +655,6 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [NC | 热带波动在海洋性大陆上热带气旋Seroja生成中的作用](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489214&idx=1&sn=5bc47877c40d04fb521a52fd1e18c5f2&chksm=f94f06d1ce388fc78e262627038a8d80c74daba234a4033e9f2a2dcd60d2c540e4384f30b75c#rd)
 
+[CD | 对流耦合Kelvin波的能量学：印度洋和太平洋海盆的对比](https://mp.weixin.qq.com/s/6hDFcybsmj3W2NaCte5Eew)
+
+[JRG-A | CAM5 张-麦克法兰对流方案的不确定性量化和参数调整以及改进的对流对全球环流和气候的影响](https://mp.weixin.qq.com/s/Fx6kmh6B3c2Cqh4wrR8DgA)
