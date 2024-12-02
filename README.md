@@ -347,7 +347,6 @@ Python-海洋气象-Xarray-入门.ipynb
 [Python | 复现NCL函数 | 保留谐波](https://mp.weixin.qq.com/s/39TQUI4xRK6GfmE5DWRqoQ)
 
 
-[Python | 自相关函数的标准化功率谱估计方法](https://mp.weixin.qq.com/s/xWCu4CJQeNtcjEQuaTzAtg)
 
 [Python | Seaborn | Heatmap](https://mp.weixin.qq.com/s/T4hFi-GuDMFlRqByCGtSlA)
 
