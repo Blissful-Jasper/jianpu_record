@@ -21,12 +21,6 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
-## 2024-12-02
-
-Python-计算自相关系数.ipynb
- - acf计算方法对于较长的时间序列，差异可能会变小，但对于较短的时间序列，差异可能会相当大。
-
-![image](https://github.com/user-attachments/assets/f8737f49-47be-4074-ab8e-6a06d9aa0823)
 
 ## 2025-03-03
 
@@ -42,6 +36,12 @@ Python-计算自相关系数.ipynb
 
 ![er](https://github.com/user-attachments/assets/c4ab28ee-ef21-42e9-88fd-6ea6dba2dbca)
 
+## 2024-12-02
+
+Python-计算自相关系数.ipynb
+ - acf计算方法对于较长的时间序列，差异可能会变小，但对于较短的时间序列，差异可能会相当大。
+
+![image](https://github.com/user-attachments/assets/f8737f49-47be-4074-ab8e-6a06d9aa0823)
 ## 2024-11-22
 
 Python-保留谐波.ipynb
