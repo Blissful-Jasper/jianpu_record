@@ -9,9 +9,12 @@ Outgoing Longwave Radiation	Mean	Daily
 
 或者可以从谷歌网盘下载ncl 滤波后的kelvin波nc数据
 
-- https://drive.google.com/file/d/15UINhhKpkUKkCC-ztB63gVsAE74RyCy_/view?usp=drive_link
-- https://drive.google.com/drive/folders/1Z4aBqjB7gmOjxY0tw-8ifmu1LxrdU2B3?usp=sharing
-- 
+- [https://drive.google.com/file/d/15UINhhKpkUKkCC-ztB63gVsAE74RyCy_/view?usp=drive_link](https://drive.google.com/drive/folders/1Z4aBqjB7gmOjxY0tw-8ifmu1LxrdU2B3?usp=drive_link)
+
+如果无法下载成功，可以邮件联系我：
+
+xianpuji@hhu.edu.cn
+
 ## 代码功能介绍
 
 该文件夹为大气数据（特别是 OLR 数据）创建了一个滤波器，以提取特定的赤道波模式，如开尔文波和赤道罗斯贝 (ER) 波
