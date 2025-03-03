@@ -9,7 +9,7 @@ begin
 	smooth = True
 
 
-	wave = "kelvin"; input variable (mjo, kelvin, er, mrg, eig, td)
+	; wave = "kelvin"; input variable (mjo, kelvin, er, mrg, eig, td)
 
 	folder = "/Users/xpji/spacetime_filter/filter_wave/"
 	folderout = "/Users/xpji/spacetime_filter/"
