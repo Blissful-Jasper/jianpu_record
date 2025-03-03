@@ -28,6 +28,19 @@ Python-计算自相关系数.ipynb
 
 ![image](https://github.com/user-attachments/assets/f8737f49-47be-4074-ab8e-6a06d9aa0823)
 
+## 2025-03-03
+
+- https://github.com/Blissful-Jasper/jianpu_record/tree/main/equatorial_wave_filter
+
+- 新建了一个`equatorial_wave_filter`文件夹，在python中实现了ncl中的kf-filter函数，并进行了函数封装.
+- 同时上传了ncl的滤波提取的脚本，分为两个，一个是循环提取，一个是单独的信号提取；
+- python中使用的滤波参数完全与ncl脚本中一致，方便后续结果对比
+- 通过与ncl的滤波结果进行对比，对于kelvin波和rossby波的信号提取基本正确，可以进行后续的分析.
+- kelvin波相对简单，所以信号提取的基本一致，rossby的频散关系比较复杂，所以提取结果有一丝丝的误差，但是这不影响整体的结果
+
+  ![kelvin](https://github.com/user-attachments/assets/d8dced51-c52c-41c0-bb7f-f0eeef74c032)
+
+![er](https://github.com/user-attachments/assets/c4ab28ee-ef21-42e9-88fd-6ea6dba2dbca)
 
 ## 2024-11-22
 
