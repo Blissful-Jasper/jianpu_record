@@ -3,7 +3,21 @@
 
 更新ing...
 
-(引用请注明来处)
+
+## 引用
+
+如果您在论文或项目中使用了本仓库的代码或内容，请引用：
+
+Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://github.com/Blissful-Jasper/jianpu_record](https://github.com/Blissful-Jasper/jianpu_record)
+
+@misc{xianpu2024,
+  author       = {Xianpu Ji},
+  title        = {jianpu_record},
+  year         = {2024},
+  howpublished = {\url{https://github.com/Blissful-Jasper/jianpu_record}},
+  note         = {GitHub repository}
+}
+
 
 ## 2024-12-02
 
