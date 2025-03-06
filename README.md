@@ -21,6 +21,14 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
+## 2025-03-06
+
+Python-kelvin波-空间分布.ipynb
+  
+今天祝自己生日快乐，顺便写个代码。hhh
+
+![](https://github.com/user-attachments/assets/bb1dabe1-b76c-41e6-8c68-3915ab3a9fdb)
+
 
 ## 2025-03-03
 
@@ -330,6 +338,8 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Python | basemap |  cartopy |  geoviews](https://mp.weixin.qq.com/s/iiLCHVi5ywZkiqHDUEUAmg)
 
+[Python | kelvin波的水平空间特征](https://mp.weixin.qq.com/s/VTkZKsr6m93LdD5aA172Ww)
+
 ### python-数据处理
 
 [Python | SMAP_SSS_L2c | 质量控制](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247486969&idx=1&sn=5c13438c7aaf64a4aa73b80a1d0bfd8e&chksm=f94f1d96ce38948050b0b4b4afd7d246037181807da19765b2d939e629eeeb2087161726aed4&scene=21#wechat_redirect)
@@ -387,6 +397,12 @@ Python-海洋气象-Xarray-入门.ipynb
 [Python | Seaborn | Heatmap](https://mp.weixin.qq.com/s/T4hFi-GuDMFlRqByCGtSlA)
 
 [Python | WRF | 计算非绝热加热率](https://mp.weixin.qq.com/s/FPOqm6KgKcCrV4mILOoNwQ)
+
+[Python | eps矢量图不支持透明度设置](https://mp.weixin.qq.com/s/gUA_7jJ24Evlipyl8-TMmQ)
+
+[Python | CGCS2000坐标系转换为WG84坐标系](https://mp.weixin.qq.com/s/vcHdN35J9Oup4wQ6WgxRyg)
+
+[Python | 重写decompose2SymAsym函数](https://mp.weixin.qq.com/s/8UcJKGdcMjivdba0jV06MA)
 
 ### python-海洋气象入门
 
@@ -478,7 +494,7 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [WRF | 诊断量计算 | 输出](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487512&idx=1&sn=c26b2762b3db875aff545e0914c039d0&chksm=f94f0077ce388961d78db29229d9d8540dea4c5763d09c306b8eb2647288919058e580471615&scene=21#wechat_redirect)
 
-
+[WRF | 报错解决方法整理](https://mp.weixin.qq.com/s/QaMieRMzJ4jScFdLlVFtbw)
 ## cdo
 
 [cdo |  插值 | 合并数据 | 缺测处理](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487092&idx=1&sn=c121e4228aab3769e7113478b311df4f&chksm=f94f1e1bce38970d236be00831a68d64def4535ec48a7672d92e1bd1689eff08e7bf5a8223ab&scene=21#wechat_redirect)
@@ -545,7 +561,9 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [笔记 | Kelvin wave | 热带气旋](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488595&idx=1&sn=78ec9d317427d2926d051b10790302a1&chksm=f94f043cce388d2a44075530812c7e5d1d8061d82b757d5f5b86f8446a79933e4bcf69eed9c9&scene=21#wechat_redirect)
 
+[笔记 | CCKWs | 不稳定机制](https://mp.weixin.qq.com/s/sB73vq2SIev07ZXiF0DAkw)
 
+[笔记 | 热带波动和热带分析方法](https://mp.weixin.qq.com/s/YeGOVmilG8IZX6aAvclGbw)
 
 ##  深度学习
 
@@ -657,9 +675,29 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Adobe acrobat DC | 插件](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488588&idx=1&sn=84c1360237698a663e777bbf42d154e3&chksm=f94f0423ce388d350364b0da3aa7aab50c8cca55c926b55af36ba4ae728692b544dbdc4000bc&scene=21#wechat_redirect)
 
+[Linux | 编译convert_geotiff 遇到的问题](https://mp.weixin.qq.com/s/KfYaWzGS3fS-VP2KDVrZww)
 
+[小技巧 | VScode搭配deepseek建立大模型助手](https://mp.weixin.qq.com/s/M58YRzLEyCMkensimOoHVQ)
 
+[软件安装｜ ParaView ｜ 2D-Ocean data](https://mp.weixin.qq.com/s/hu31oN8oZBR0vsRB4iU3nw)
 
+[ParaView ｜ 可视化3D数据](https://mp.weixin.qq.com/s/4o6AHaU0VN_iO1AyDxTWvA)
+
+[deepseek | 真的需要部署本地吗？](https://mp.weixin.qq.com/s/uKWEZL_57V9s4cL9km66nw)
+
+[Zotero  | Nas |  多设备同步文献同步 ](https://mp.weixin.qq.com/s/m4UFKGY6Ox6rfU2xDTtHdg)
+
+[Zotero7 |  接入deepseek教程](https://mp.weixin.qq.com/s/iNYOjw1Ax_udT8W1TaBMQQ)
+
+[Overleaf | VScode | 本地化](https://mp.weixin.qq.com/s/kM8gAsHfjncWY0rTFEbNNg)
+
+[Zotero7 | 调用翻译引擎](https://mp.weixin.qq.com/s/3GASmkyOzOglWei7nhu0Fg)
+
+## webjs
+
+[Webjs | vscode快捷键｜基础知识点1](https://mp.weixin.qq.com/s/9mRivonLfgCnjaVh7xuXFQ)
+
+[Webjs ｜ 表单｜ 列表｜标签｜ 基础知识点2](https://mp.weixin.qq.com/s/SpSks4ZOC3YypDolXfSdng)
 ##  资料同化
 
 [资料同化 | 真实个例](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247486396&idx=1&sn=12e9b7dc55831a0bb38e27025daa7dbc&chksm=f94f1bd3ce3892c523e5b9a8e63fd1d4c1375e8c54a637da984e19ba42c983c3c145fe6202a7&scene=21#wechat_redirect)
@@ -673,7 +711,11 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [数值天气预报 | 资料同化概念](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247485810&idx=1&sn=b9dbb1d72622f520c0c867c7c6090b2e&chksm=f94f191dce38900bd45ed0cb2325a9dde81f981fef1498e6b58f9cc1ca30727b5edefe543d1d&scene=21#wechat_redirect)
 
+[数据同化 | 用最少的公式讲解几种传统数据同化方法的发展路径](https://mp.weixin.qq.com/s/NYtxTrHkzC7WUvg4cpm8RA)
 
+## 就业
+
+[海洋气象岗位 | 自然资源部所属单位2025](https://mp.weixin.qq.com/s/AtEpsf8V_DJLr6yqVcQKuQ)
 
 ## 文献阅读
 
@@ -693,3 +735,19 @@ Python-海洋气象-Xarray-入门.ipynb
 [CD | 对流耦合Kelvin波的能量学：印度洋和太平洋海盆的对比](https://mp.weixin.qq.com/s/6hDFcybsmj3W2NaCte5Eew)
 
 [JRG-A | CAM5 张-麦克法兰对流方案的不确定性量化和参数调整以及改进的对流对全球环流和气候的影响](https://mp.weixin.qq.com/s/Fx6kmh6B3c2Cqh4wrR8DgA)
+
+[JAS | 对流准平衡约束下热带垂直运动的求解](https://mp.weixin.qq.com/s/-WOGx63TCZ7_vYTvZKLUrw)
+
+[JAS | 东太平洋ITCZ观测中的对流耦合kelvin波](https://mp.weixin.qq.com/s/g5g76OLjf8iKJuU0M9QCsw)
+
+[JAS | 对流耦合Kelvin波的观测结构：简单耦合波不稳定模型的比较](https://mp.weixin.qq.com/s/K1-nf_OZXM6XNsfZL5wzyw)
+
+[ERC | 了解热带降雨年循环变化的进展：综述](https://mp.weixin.qq.com/s/Bz63YVYSrvTrwE-1lD1oAw)
+
+[JAS | 东太平洋热带辐合带( ITCZ )可降水的天气尺度双重结构](https://mp.weixin.qq.com/s/IyAhzcMiDWZqIG6pULMq8w)
+
+[BAMS | 面向过程的气候和天气预报模型评估](https://mp.weixin.qq.com/s/58cqKi3Hd3MVVXC1fFT06g)
+
+[MJO | 综述](https://mp.weixin.qq.com/s/hK0T16sKDON31eccV_fh5g)
+
+[GMD | 模拟地球系统的组成部分及其在公里和亚公里尺度上的相互作用](https://mp.weixin.qq.com/s/K6s3hZ8q6UFvlQhlC6FfmA)
