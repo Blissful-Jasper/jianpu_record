@@ -21,6 +21,14 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
+## 2025-03-11
+Python-kelvin波-追踪信号.ipynb
+
+在昨天的代码基础上进行了一点完善，可以实现对于最强/最弱的信号的追踪，缺点是：这里的阈值是人为选择的
+
+![image](https://github.com/user-attachments/assets/f90667b8-be61-4d54-9870-0df94f53001f)
+
+
 ## 2025-03-10
 
 Python-kelvin波-超前滞后合成.ipynb
