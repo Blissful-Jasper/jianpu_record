@@ -21,6 +21,17 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
+## 2025-03-17
+
+Python_wk_spacetime.ipynb
+
+该 Python 代码用于从网格时间序列数据构建 Wheeler-Kiladis 时空谱 (WK 谱)，重点分析热带波波动。
+
+![image](https://github.com/user-attachments/assets/99a06d82-962b-4329-b08e-bc9f4fc8bcf4)
+
+
+
+
 ## 2025-03-11
 Python-kelvin波-追踪信号.ipynb
 
