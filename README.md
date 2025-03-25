@@ -439,6 +439,9 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Python | 重写decompose2SymAsym函数](https://mp.weixin.qq.com/s/8UcJKGdcMjivdba0jV06MA)
 
+
+[Python | 计算散度](https://mp.weixin.qq.com/s/soT7BwgG2bmA_0se5oYhzw)
+
 ### python-海洋气象入门
 
 [Python | 海洋气象 | Xarray | 数据读取与切片01](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488178&idx=1&sn=f81e8729b81cf4ac4bfe15d5a3f8fa2f&chksm=f94f02ddce388bcb7b7b167d4722cad59b776f370f5a9d33bbb32aa33b04296d79540b8d21d3&scene=21#wechat_redirect)
@@ -599,6 +602,10 @@ Python-海洋气象-Xarray-入门.ipynb
 [笔记 | CCKWs | 不稳定机制](https://mp.weixin.qq.com/s/sB73vq2SIev07ZXiF0DAkw)
 
 [笔记 | 热带波动和热带分析方法](https://mp.weixin.qq.com/s/YeGOVmilG8IZX6aAvclGbw)
+
+[笔记 | 傅里叶变换与热带kelvin波](https://mp.weixin.qq.com/s/bzZBtv64zVzKX0Iqe1zy-Q)
+
+[笔记 | SVD | 奇异值分解](https://mp.weixin.qq.com/s/NxM4KwpzPDaLR6bKubkIfg)
 
 ##  深度学习
 
@@ -786,3 +793,5 @@ Python-海洋气象-Xarray-入门.ipynb
 [MJO | 综述](https://mp.weixin.qq.com/s/hK0T16sKDON31eccV_fh5g)
 
 [GMD | 模拟地球系统的组成部分及其在公里和亚公里尺度上的相互作用](https://mp.weixin.qq.com/s/K6s3hZ8q6UFvlQhlC6FfmA)
+
+[JAS | 对流耦合赤道波和 MJO 中的垂直速度剖面：波数-频率域中垂直速度剖面的新诊断](https://mp.weixin.qq.com/s/0L_MDhSOLMOdS_pM4p2aiA)
