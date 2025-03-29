@@ -375,6 +375,8 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Python | kelvin波的水平空间特征](https://mp.weixin.qq.com/s/VTkZKsr6m93LdD5aA172Ww)
 
+[Python  | 常用colormap设置方法](https://mp.weixin.qq.com/s/9xI9TPwStyNgvGtY3BHTlg)
+
 ### python-数据处理
 
 [Python | SMAP_SSS_L2c | 质量控制](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247486969&idx=1&sn=5c13438c7aaf64a4aa73b80a1d0bfd8e&chksm=f94f1d96ce38948050b0b4b4afd7d246037181807da19765b2d939e629eeeb2087161726aed4&scene=21#wechat_redirect)
@@ -795,3 +797,7 @@ Python-海洋气象-Xarray-入门.ipynb
 [GMD | 模拟地球系统的组成部分及其在公里和亚公里尺度上的相互作用](https://mp.weixin.qq.com/s/K6s3hZ8q6UFvlQhlC6FfmA)
 
 [JAS | 对流耦合赤道波和 MJO 中的垂直速度剖面：波数-频率域中垂直速度剖面的新诊断](https://mp.weixin.qq.com/s/0L_MDhSOLMOdS_pM4p2aiA)
+
+[JAMS | 总湿稳定度机制](https://mp.weixin.qq.com/s/LAQSxWUiqiKPFuPyyTVFEw)
+
+[JAS | 理想化湿大气环流模型中的对流耦合开尔文波](https://mp.weixin.qq.com/s/5THJVijEl9K3cAUg7DjmwA)
