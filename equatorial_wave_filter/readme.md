@@ -24,7 +24,11 @@ xianpuji@hhu.edu.cn
 
 包含python代码和ncl代码，其中ncl代码用来验证python代码的滤波结果，python代码主要实现以下功能：
 
-代码中ipynb中kf-filter的函数，在https://github.com/Blissful-Jasper/mcclimate/blob/master/kf_filter.py的基础上进行了封装和调整
+代码中ipynb中kf-filter的函数，在
+
+- https://github.com/Blissful-Jasper/mcclimate/blob/master/kf_filter.py
+
+的基础上进行了封装和调整
 
 - 1、使用 xarray 和 dask 加载 netCDF 数据以进行并行处理
 - 2、执行数据预处理，包括去趋势
