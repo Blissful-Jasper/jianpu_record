@@ -20,6 +20,17 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
   note         = {GitHub repository}
 }
 ```
+## 2025-04-10
+
+Python-EOF-PCA对比.ipynb
+
+- 主要是验证了不太eof计算方法的差异
+- 基本上差异不大，相比eofs，PCA更适合处理存储较大的文件
+
+![image](https://github.com/user-attachments/assets/733c0a4f-ed14-464f-84c1-489a16148600)
+
+
+
 
 ## 2025-03-18
 
