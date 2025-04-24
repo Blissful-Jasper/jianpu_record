@@ -20,6 +20,14 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
   note         = {GitHub repository}
 }
 ```
+## 2025-04-24
+- Python-kf-filter-like-ncl.ipynb
+
+![image](https://github.com/user-attachments/assets/9a6f15db-f070-4a78-8a49-5a276be635b6)
+![image](https://github.com/user-attachments/assets/06f386fe-5991-45e7-81e0-f0bfd37053ab)
+![image](https://github.com/user-attachments/assets/15194367-9745-4fac-98e7-737a7d4e803b)
+
+
 ## 2025-04-10
 
 Python-EOF-PCA对比.ipynb
