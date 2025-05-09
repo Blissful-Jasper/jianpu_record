@@ -20,6 +20,23 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
   note         = {GitHub repository}
 }
 ```
+
+
+
+## 2025-05-09
+
+- Python-Kelvin波理论解水平空间.py
+
+![kelvin波水平分布图](https://github.com/user-attachments/assets/cb220b21-4f2a-4668-ae95-bfd29a784640)
+
+
+## 2025-05-08
+
+- Python-matsuno-赤道波动频散关系图.py
+
+  ![频散曲线理论关系图](https://github.com/user-attachments/assets/788a9b02-84d3-4ccb-8908-eee79a4fe3be)
+
+
 ## 2025-04-24
 - Python-kf-filter-like-ncl.ipynb
 
