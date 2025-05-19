@@ -21,6 +21,10 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
+## 2025-05-19
+- Python-Gill响应-动画版.ipynb
+
+![gill_model_animation](https://github.com/user-attachments/assets/8ee84e76-961f-4558-bdb1-d6974372a963)
 
 
 ## 2025-05-09
