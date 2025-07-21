@@ -21,6 +21,13 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
+## 2025-07-21
+
+- Python-垂直模态分解.py
+
+<img width="3125" height="2666" alt="eof_profiles_ocean_global_mask" src="https://github.com/user-attachments/assets/019f4f4c-79e0-4733-adcc-cbc881f1aa83" />
+
+
 ## 2025-05-19
 - Python-Gill响应-动画版.ipynb
 
