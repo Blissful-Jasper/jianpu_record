@@ -6,7 +6,7 @@
 
 ##  olr.day.mean.nc
 links: 
-- !(下载链接)[https://www.psl.noaa.gov/data/gridded/data.interp_OLR.html]
+- [下载链接](https://psl.noaa.gov/data/gridded/data.olrcdr.interp.html)
   
 ```python
 {'title': 'Daily Mean Interpolated OLR',
