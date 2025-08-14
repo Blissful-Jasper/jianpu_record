@@ -21,6 +21,13 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
+## 2025-08-13
+
+- python-海温锋面及指数.ipynb
+
+  ![](https://files.mdnice.com/user/57394/ce313043-7035-4692-870c-fae18d22d582.png)
+
+
 ## 2025-07-24
 
 - Python-kelvin波位相合成.ipynb
