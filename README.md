@@ -21,6 +21,13 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
+## 2025-09-02
+
+- Python-复现箱型图.py
+
+<img width="4133" height="2332" alt="replicated_kelvin_boxplot" src="https://github.com/user-attachments/assets/c2d24583-87ca-4544-8d44-bd5e2ddb75e1" />
+
+
 ## 2025-08-13
 
 - python-海温锋面及指数.ipynb
