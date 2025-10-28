@@ -21,6 +21,17 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
+
+## 2025-10-28
+
+- kelvin_wave_propagation.ipynb
+
+- 改进了之前kelvin波的分布图的效果，并绘制了动图来更好的展示其特征
+
+<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/98f99719-c98c-4ecf-86be-385ccd075753" />
+
+
+
 ## 2025-09-02
 
 - Python-复现箱型图.py
