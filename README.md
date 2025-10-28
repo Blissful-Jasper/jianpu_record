@@ -28,7 +28,10 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 
 - 改进了之前kelvin波的分布图的效果，并绘制了动图来更好的展示其特征
 
-<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/98f99719-c98c-4ecf-86be-385ccd075753" />
+![kelvin_wave_2D](https://github.com/user-attachments/assets/ec279e2f-6f27-45a0-ad8a-c9c8d1d3b79a)
+
+<img width="1723" height="1485" alt="kelvin_wave_3d_snapshot" src="https://github.com/user-attachments/assets/951d1313-451a-4566-9f52-faf8b6987817" />
+
 
 
 
