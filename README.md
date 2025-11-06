@@ -21,6 +21,12 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
+## 2025-11-06
+
+- Python_wave_speed_Explain.ipynb
+
+<img width="1109" height="633" alt="d9cde59dd636de1c3c8ccc0c36505ad9" src="https://github.com/user-attachments/assets/963c6592-89ee-47a3-a9db-4fee233cafa5" />
+
 
 ## 2025-11-06
 
