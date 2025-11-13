@@ -21,6 +21,13 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
+## 2025-11-13
+
+- Python_vertical_wave_mode_He.ipynb
+
+  <Figure size 1600x1100 with 4 Axes><img width="1581" height="1089" alt="image" src="https://github.com/user-attachments/assets/2bd0ffc4-30df-42ec-b108-96895c1e183c" />
+
+
 ## 2025-11-06
 
 - Python_wave_speed_Explain.ipynb
