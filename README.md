@@ -45,13 +45,16 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 ## 2025-10-28
 
 - kelvin_wave_propagation.ipynb
+- Python_kelvin_wave_propagation_with_geo_div.ipynb
 
+  
 - 改进了之前kelvin波的分布图的效果，并绘制了动图来更好的展示其特征
 
 ![kelvin_wave_2D](https://github.com/user-attachments/assets/ec279e2f-6f27-45a0-ad8a-c9c8d1d3b79a)
 
 <img width="1723" height="1485" alt="kelvin_wave_3d_snapshot" src="https://github.com/user-attachments/assets/951d1313-451a-4566-9f52-faf8b6987817" />
 
+![kelvin_wave_improved](https://github.com/user-attachments/assets/8ce96b5f-fce9-4c20-9f1a-f60607948ba1)
 
 
 
