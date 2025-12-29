@@ -481,7 +481,22 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Python | kelvin波的水平空间特征](https://mp.weixin.qq.com/s/VTkZKsr6m93LdD5aA172Ww)
 
-[Python  | 常用colormap设置方法](https://mp.weixin.qq.com/s/9xI9TPwStyNgvGtY3BHTlg)
+[Python | 常用colormap设置方法](https://mp.weixin.qq.com/s/9xI9TPwStyNgvGtY3BHTlg)
+
+[Python | kelvin波的超前滞后合成图](https://mp.weixin.qq.com/s/umxqZpmBqyxxMQVa_J-xHA)
+
+[Python | 绘制黑底的水平空间分布图](https://mp.weixin.qq.com/s/MYcgjwGilDb_BgPxu6CDGw)
+
+[Python | 赤道频散关系图](https://mp.weixin.qq.com/s/io6C3ZyyLnuyg_0TYg8eUA)
+
+[Python | 赤道kelvin波理论空间分布图](https://mp.weixin.qq.com/s/P5N9PUKTaOCyqMRoxz0nlA)
+
+[Python | 绘图 | 线条超出边界](https://mp.weixin.qq.com/s/6XjcKnDZJdZtdrqeRR1GBA)
+
+[Python | 绘制箱型图 | 添加回归线](https://mp.weixin.qq.com/s/FNEcKfGxodxMGW0zXZJC3Q)
+
+
+---
 
 ### python-数据处理
 
@@ -550,6 +565,25 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Python | 计算散度](https://mp.weixin.qq.com/s/soT7BwgG2bmA_0se5oYhzw)
 
+[Python |  kelvin波信号追踪](https://mp.weixin.qq.com/s/FLs4jPOdrShAuPuzZo_QZw)
+
+[Python | 计算偏导 |differentiate | gradient](https://mp.weixin.qq.com/s/2wON-4Zk6xq13r-0mXtV6g)
+
+[Python | 质量加权的垂直积分](https://mp.weixin.qq.com/s/CXRXdSMLRECtT_Te8_Yj3g)
+
+[Python | 计算垂直积分](https://mp.weixin.qq.com/s/uAAczkdqXkWPBkkZ9qVXJw)
+
+[Python | 垂直模态分解](https://mp.weixin.qq.com/s/54HYBZcRkNyE53SKbeYSBQ)
+
+[Python | 赤道波动与位相](https://mp.weixin.qq.com/s/yBx0m6JfNiI3fk5YORdevw)
+
+[Python ｜ 计算海洋锋面](https://mp.weixin.qq.com/s/AgjFJY0cGsLAyJWUrqoVBg)
+
+[Python | 转换HEALPix 为 LatLon 网格](https://mp.weixin.qq.com/s/xYviOMTjn3G1GMaAoW7bOA)
+
+[Python ｜ 饱和水汽压 ｜ 饱和比湿｜ 计算](https://mp.weixin.qq.com/s/gn9CpCYz69tS9itT3yeWHQ)
+
+
 ### python-海洋气象入门
 
 [Python | 海洋气象 | Xarray | 数据读取与切片01](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488178&idx=1&sn=f81e8729b81cf4ac4bfe15d5a3f8fa2f&chksm=f94f02ddce388bcb7b7b167d4722cad59b776f370f5a9d33bbb32aa33b04296d79540b8d21d3&scene=21#wechat_redirect)
@@ -575,6 +609,9 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Julia | 安装与测试](https://mp.weixin.qq.com/s/qnJnHzFLRQBwJXydgOGH0A)
 
+[Jupyterlab | 读取｜绘制｜存储｜数据](https://mp.weixin.qq.com/s/ICMtUFaUo35cbiWalfjBzA)
+
+[JupyterHub | 处理healpix](https://mp.weixin.qq.com/s/S0qlMcFBtrN8EfLrCdiubA)
 
 ## NCL
 
@@ -590,6 +627,10 @@ Python-海洋气象-Xarray-入门.ipynb
 [NCL | 批量转换nc数据时间格式 | cdo | calendar](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247488010&idx=1&sn=bef2ebbfc5e449f78d88130fc8cd155e&chksm=f94f0265ce388b734a754d391b7db882f65e8825aa6586da2ae3b4ffc0f64cefcac4e16a0bc3&scene=21#wechat_redirect)
 
 [NCL | 手动去除季节循环](https://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247489256&idx=1&sn=28bef9625b22856a753163db29bda546&chksm=f94f0687ce388f9121d2992e82762ee5e16148a9d1025339211372ee82e885fe584dee999922#rd)
+
+[NCL安装 | M1-3 芯片安装 ｜ Arm64 架构](https://mp.weixin.qq.com/s/NwMzZ8CObB2-r-VOyzoLTw)
+
+[NCL | 计算对流层顶高度](https://mp.weixin.qq.com/s/6ArIi86hEkP0P9ALiMD_Vw)
 
 ## Matlab
 
@@ -641,6 +682,12 @@ Python-海洋气象-Xarray-入门.ipynb
 [WRF | 诊断量计算 | 输出](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487512&idx=1&sn=c26b2762b3db875aff545e0914c039d0&chksm=f94f0077ce388961d78db29229d9d8540dea4c5763d09c306b8eb2647288919058e580471615&scene=21#wechat_redirect)
 
 [WRF | 报错解决方法整理](https://mp.weixin.qq.com/s/QaMieRMzJ4jScFdLlVFtbw)
+
+## ICON 模式
+
+[ICON ｜ 使用mkexp运行一个实例](https://mp.weixin.qq.com/s/z71MMcm6qkUr7p3OuGIMCg)
+
+
 ## cdo
 
 [cdo |  插值 | 合并数据 | 缺测处理](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247487092&idx=1&sn=c121e4228aab3769e7113478b311df4f&chksm=f94f1e1bce38970d236be00831a68d64def4535ec48a7672d92e1bd1689eff08e7bf5a8223ab&scene=21#wechat_redirect)
@@ -714,6 +761,23 @@ Python-海洋气象-Xarray-入门.ipynb
 [笔记 | 傅里叶变换与热带kelvin波](https://mp.weixin.qq.com/s/bzZBtv64zVzKX0Iqe1zy-Q)
 
 [笔记 | SVD | 奇异值分解](https://mp.weixin.qq.com/s/NxM4KwpzPDaLR6bKubkIfg)
+
+[笔记 | Python中的傅里叶变换](https://mp.weixin.qq.com/s/Jqj0j2lXZ8f30pYShJPpbA)
+
+[笔记 | Radon变换法 | 计算相速度](https://mp.weixin.qq.com/s/hQP7O9t0QlWDgtqhBKvAPw)
+
+[笔记 ｜ 功率谱的含义及物理解释](https://mp.weixin.qq.com/s/GGpuIfgX5rSek91s4lwlzA)
+
+[笔记 ｜ 浅水方程相关假设](https://mp.weixin.qq.com/s/fmKj6SZ8R00YCcecGs37uw)
+
+[笔记 ｜ 有效静力稳定性](https://mp.weixin.qq.com/s/fG_zmIMOMmYlVi1NU5BIUA)
+
+[笔记 ｜ 干净能 ｜ 湿静能 ｜对流 ｜ 准平衡](https://mp.weixin.qq.com/s/X4G27r1sd0f3AQGdT1woYQ)
+
+## 气象数据
+
+[数据 ｜NOAA 全球权威气象数据一站式获取平台](https://mp.weixin.qq.com/s/7adH_HG-fgkt5yLVoJmdTQ)
+
 
 ##  深度学习
 
@@ -843,11 +907,20 @@ Python-海洋气象-Xarray-入门.ipynb
 
 [Zotero7 | 调用翻译引擎](https://mp.weixin.qq.com/s/3GASmkyOzOglWei7nhu0Fg)
 
+[Word | 封面对齐](https://mp.weixin.qq.com/s/b2OM4a_ElAFnazqoYIJx7w)
+
+[Overleaf |  开题汇报Latex模板 ](https://mp.weixin.qq.com/s/4KiOT3o4DOpDIGb1hf1dKA)
+
+[Zotero | infiniCloud | WebDav | 文献同步](https://mp.weixin.qq.com/s/HeJhuIFOEA0KHBwCT-NdFQ)
+
 ## webjs
 
 [Webjs | vscode快捷键｜基础知识点1](https://mp.weixin.qq.com/s/9mRivonLfgCnjaVh7xuXFQ)
 
 [Webjs ｜ 表单｜ 列表｜标签｜ 基础知识点2](https://mp.weixin.qq.com/s/SpSks4ZOC3YypDolXfSdng)
+
+
+
 ##  资料同化
 
 [资料同化 | 真实个例](http://mp.weixin.qq.com/s?__biz=MzUxMzg4NjQ2NA==&mid=2247486396&idx=1&sn=12e9b7dc55831a0bb38e27025daa7dbc&chksm=f94f1bd3ce3892c523e5b9a8e63fd1d4c1375e8c54a637da984e19ba42c983c3c145fe6202a7&scene=21#wechat_redirect)
@@ -907,3 +980,51 @@ Python-海洋气象-Xarray-入门.ipynb
 [JAMS | 总湿稳定度机制](https://mp.weixin.qq.com/s/LAQSxWUiqiKPFuPyyTVFEw)
 
 [JAS | 理想化湿大气环流模型中的对流耦合开尔文波](https://mp.weixin.qq.com/s/5THJVijEl9K3cAUg7DjmwA)
+
+[JC | 不同区域上Mjo对对流耦合Kelvin波的调制](https://mp.weixin.qq.com/s/lFZKtt-A4FqbzU7WrwG8xA)
+
+[JAS | AGCM模拟的对流耦合开尔文波的结构及其对对流参数化的敏感性](https://mp.weixin.qq.com/s/ABalAviFYYRPLP6w0VM2Zw)
+
+[JC | 西半球对流耦合波的湿热力学](https://mp.weixin.qq.com/s/Pe7iqrV5PD3aJRGtPm0Hyg)
+
+[RG综述 | 厄尔尼诺南方涛动（ENSO）充电振荡器概念模型](https://mp.weixin.qq.com/s/jJ6C2EaUiEa8Xm0mfGWLfA)
+
+[EGUsphere | 利用机器学习改进动力气候预测模型：来自理想实验的结果](https://mp.weixin.qq.com/s/ggp8EaOjGzLJKfhUXP2YIA)
+
+[文献｜湿对流和大尺度运动](https://mp.weixin.qq.com/s/bTZ51hhEgCLmFF85sC0ZUg)
+
+[CCCR ｜ 全球云解析模式](https://mp.weixin.qq.com/s/wRdKC4rP0QYpCBpLmrpBDQ)
+
+[文献阅读预印版 | 由于地表变暖导致的层状加热结构的变化会削弱和加速对流耦合的开尔文波](https://mp.weixin.qq.com/s/O2j4CekviQxc6z4v3bdXdQ)
+
+[GRL | 可解析对流改善了全球非静力模型中赤道波和热带降雨变化的再现](https://mp.weixin.qq.com/s/ifBG3zHv1VeWDqLQhHE2ag)
+
+[JC ｜ 湿静能收支方程的时空谱分析](https://mp.weixin.qq.com/s/e4SUaYMCilyRTZXnk7GdwQ)
+
+[JGR-A | 热带海洋对流演变中的垂直速度和头重型非绝热加热](https://mp.weixin.qq.com/s/cKuMFwJOrTASzmZlEQXlTA)
+
+[JMS | 与赤道波相关的大规模云扰动-第一部分：云扰动的光谱特征](https://mp.weixin.qq.com/s/vLrcfZTOkgXAxzr8uH_GLQ)
+
+[GMD ｜nextGEMS：进入公里级地球系统建模时代](https://mp.weixin.qq.com/s/CRMHXOa_s9pmt99xD9xOVg)
+
+[GRL ｜不同降水数据集中的热带波中的长波云辐射反馈](https://mp.weixin.qq.com/s/wfpA-NTZSmFaGjx5xgynMw)
+
+[GRL ｜ 研究云-辐射相互作用在次季节热带扰动中的作用](https://mp.weixin.qq.com/s/BK0IJZ4aHkDEmh94uqSzMQ)
+
+[GRL ｜ 海表温度pattern对出射长波辐射的影响：大规模对流聚集的作用](https://mp.weixin.qq.com/s/_jMVMwZzObl7zZ7LXon-FA)
+
+[PNAS ｜ Tropics-Wide IntraSeasonal Oscillations (TWISO)](https://mp.weixin.qq.com/s/UXkpTgKqh4V8C_3mmR9zkw)
+
+[Surveys  Geophysics｜ 气候变化下降水的能量约束](https://mp.weixin.qq.com/s/71rJEQ1e7tSCT0ub5cjIgw)
+
+[Nature ｜ 未来气候和水循环变化的制约因素](https://mp.weixin.qq.com/s/3EXlJoPtSd2iU82iIP2hHw)
+
+[JC ｜ 全球平均降水变化的大气能量约束](https://mp.weixin.qq.com/s/UZoSHGrfQ1J3dCbYW7wi7A)
+
+[QJRMS ｜ 经向结构与对流层顶高度和温度的未来变化](https://mp.weixin.qq.com/s/jC63nyCErCqI13WIY2zk2w)
+
+[JC ｜ 简单的湿热带大气模型：云辐射强迫的作用](https://mp.weixin.qq.com/s/SQarYunWPJICPgtXTfnnZw)
+
+[GRL ｜ 对比深浅对流在热带总湿稳定性中的作用](https://mp.weixin.qq.com/s/8Tv7WpKPyw7NXvdhsOaSgQ)
+
+[JGR-A ｜ 热带对流向中强状态转变](https://mp.weixin.qq.com/s/KyCOKIvOiEvWZCij8bSSnw)
