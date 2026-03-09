@@ -21,6 +21,29 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 
+## 2026-02-25
+
+- 01_download_NECP.ipynb
+- 下载NECP再分析数据
+
+
+
+## 2026-02-23
+
+- 00_bsiso_EOF.ipynb
+- 对于OLR进行EOF分析，得到BSISO的空间pattern
+  
+<Figure size 1400x1000 with 3 Axes><img width="1164" height="823" alt="image" src="https://github.com/user-attachments/assets/36069147-da91-4bed-b2b0-12cda1bd4d12" />
+
+## 2026-02-20
+
+- 00_bandpass_compare.ipynb
+- 比较不同带通滤波的函数效果
+
+<Figure size 2000x2050 with 13 Axes><img width="1647" height="1631" alt="image" src="https://github.com/user-attachments/assets/0ab654dc-8565-46f1-89f1-f7eb5f0603e8" />
+
+
+
 ## 2025-11-13
 
 - Python_vertical_wave_mode_He.ipynb
