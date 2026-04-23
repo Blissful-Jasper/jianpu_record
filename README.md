@@ -20,6 +20,15 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
   note         = {GitHub repository}
 }
 ```
+## 2026-04-23
+
+- Python_healpix_pr_origin_grid.ipynb
+- 直接在ICON-healpix网格绘制空间分布图
+- <img width="752" height="1128" alt="image" src="https://github.com/user-attachments/assets/fffe4c5f-3491-47f7-94a9-8989e8b63861" />
+  <img width="752" height="1128" alt="image" src="https://github.com/user-attachments/assets/e6c848d8-ce6d-406d-8a22-234eaa83e9df" />
+
+
+
 
 ## 2026-02-25
 
