@@ -21,7 +21,7 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 ```
 ## 2026-04-23
-
+- 注意，healpy中默认经度是颠倒的，所以需要加上flip="geo"来反转经度
 - Python_healpix_pr_origin_grid.ipynb
 - 直接在ICON-healpix网格绘制空间分布图
 - <img width="752" height="1128" alt="image" src="https://github.com/user-attachments/assets/fffe4c5f-3491-47f7-94a9-8989e8b63861" />
