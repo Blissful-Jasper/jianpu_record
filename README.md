@@ -37,11 +37,21 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
   
  <img width="1245" height="456" alt="image" src="https://github.com/user-attachments/assets/30a42753-b793-40cb-a6af-e4ef36b4e439" />
 
+
+## 2026-06-03
+- Python_15S15N_kelvin_rossby_mjo_hovmoller_horizontal.ipynb
+- 使用olr进行赤道波动信号提取，比较原始olr和滤波后kelvin波、rossby波和mjo的传播轨迹。
+- 
+<img width="6120" height="2520" alt="image" src="https://github.com/user-attachments/assets/3eff47b3-8157-432b-a0dd-3f8e30fc10ee" />
+
+
 ## 2026-06-01
 - Python_Plot_Western_Pacific_Basemap.ipynb
 - 绘制一个西太平洋的地图底图，作为后续示意图的地图
   
   <img width="3458" height="1881" alt="western_pacific_basemap_provided_style" src="https://github.com/user-attachments/assets/52d84a74-1763-4027-bab4-2748215e17cd" />
+
+
 
 
 
