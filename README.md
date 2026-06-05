@@ -40,7 +40,10 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 ## 2026-06-01
 - Python_Plot_Western_Pacific_Basemap.ipynb
 - 绘制一个西太平洋的地图底图，作为后续示意图的地图
-<Figure size 1400x750 with 1 Axes>
+  
+  <img width="3458" height="1881" alt="western_pacific_basemap_provided_style" src="https://github.com/user-attachments/assets/52d84a74-1763-4027-bab4-2748215e17cd" />
+
+
 
 ## 2026-04-23
 - 注意，healpy中默认经度是颠倒的，所以需要加上flip="geo"来反转经度
