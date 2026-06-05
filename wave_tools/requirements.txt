@@ -1,0 +1,23 @@
+# Core dependencies
+numpy>=1.19.0
+xarray>=0.16.0
+scipy>=1.5.0
+matplotlib>=3.3.0
+pandas>=1.1.0
+
+# Meteorological tools
+cmaps>=1.0.0
+metpy>=1.0.0
+
+# Geospatial
+cartopy>=0.18.0
+
+# Performance
+numba>=0.50.0
+joblib>=0.16.0
+
+# HEALPix support
+healpy>=1.14.0
+
+# Data science utilities
+scikit-image>=0.17.0
