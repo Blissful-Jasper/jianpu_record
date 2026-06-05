@@ -19,7 +19,18 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
   howpublished = {\url{https://github.com/Blissful-Jasper/jianpu_record}},
   note         = {GitHub repository}
 }
+
 ```
+
+## 2026-06-05
+- Python_daily_olr_demo_healpix_transform.ipynb
+- 简单的一个处理healpix网格的例子，并添加海岸线
+- 验证网格转化对于整理的数据pattern看起来影响不会太大。
+  
+ <img width="1245" height="456" alt="image" src="https://github.com/user-attachments/assets/30a42753-b793-40cb-a6af-e4ef36b4e439" />
+
+
+
 ## 2026-04-23
 - 注意，healpy中默认经度是颠倒的，所以需要加上flip="geo"来反转经度
 - Python_healpix_pr_origin_grid.ipynb
