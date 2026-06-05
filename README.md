@@ -21,6 +21,14 @@ Xianpu Ji. (2024). *jianpu_record* [GitHub repository]. Retrieved from [https://
 }
 
 ```
+## 2026-06-05
+- Python_CCKW-filtered_evolution.ipynb
+- 使用ICON的数据，进行kelvin波滤波，绘制空间活动分布图
+- 绘制纬向平均的经向分布，以及经向平均的zonal evolution
+
+<img width="928" height="609" alt="image" src="https://github.com/user-attachments/assets/6205786c-aff0-4b68-9d30-5439849639f1" />
+<img width="1185" height="362" alt="image" src="https://github.com/user-attachments/assets/72f76511-9657-4bc6-bc80-16e9c5af60d9" />
+
 
 ## 2026-06-05
 - Python_daily_olr_demo_healpix_transform.ipynb
